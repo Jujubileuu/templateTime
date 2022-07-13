@@ -5,3 +5,48 @@
 }
 
 /* Footer */
+
+footer img{
+    width: 300px;
+    height: 250px;
+}
+
+#pezao{
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(245, 245, 245);
+}
+
+#dedo1{
+    float: left;
+    width: 27%;;    
+    margin-right: 1%;
+    margin-left: 9%;
+}
+#dedo2{
+    float: left;
+    width: 27%;
+    margin-left: 1%;
+}
+#dedo3{
+    float: left;
+    width: 27%;
+    margin-left: 1%;
+}
+
+footer button{
+    background-color: rgb(243, 222, 183);
+    border-radius: 30px;
+    width: 100px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+footer p, h5{
+    margin-top: 3%;
+}
+
+footer h5{
+    margin-bottom: 3%;
+}
