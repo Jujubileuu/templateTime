@@ -3,3 +3,23 @@
     padding: 0%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+header{
+    background: url(/imgb/paladins.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 160px;
+    background-image: repeating-linear-gradient(45deg, violet, indigo, blue, green, yellow, orange, red, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
