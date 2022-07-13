@@ -3,3 +3,32 @@
     padding: 0%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+body{
+    background-image: url(https://i0.wp.com/multarte.com.br/wp-content/uploads/2018/12/fundo-roxo-escuro24.png?fit=2560%2C1600&ssl=1);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+main article{
+    padding: 0% 5% 0% 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    background-color: white;
+    width: 80%;
+    height: 780px;
+    margin: 2% 5% 2% 5%;
+}
+main h2{
+    font-size: 205%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+}
+main p{
+    font-size: 105%;
+    margin-bottom: 1.5%;
+}
+main img{
+    width: 90%;
+    height: 420px;
+    margin-left: 5%;
+    margin-bottom: 1.5%;
+}
